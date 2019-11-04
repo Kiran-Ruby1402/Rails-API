@@ -1,0 +1,14 @@
+ACCESSDENIED = 'Access denied'.freeze
+BAD_REQUEST_ERROR = 'Sorry your request resulted in an error'.freeze
+ERROR = 'error'.freeze
+FORBIDDEN_MESSAGE = 'You do not have access to this page'.freeze
+INVALID_CREDENTIALS = 'Invalid username or password'.freeze
+INVALID_TOKEN = 'Token is invalid'.freeze
+MISSING_TOKEN = 'Token is missing'.freeze
+DATA_NOT_FOUND = 'Data not found'.freeze
+LOGIN_MSG = 'Signed in Successfully'.freeze
+LOGOUT_MSG = 'Logged out successfully'.freeze
+DATA_RECEIVED_SUCCESSFULLY = 'Data received successfully'.freeze
+SUCCESS = 'success'.freeze
+UPDATED_SUCCESSFULLY = "Updated successfully"
+DESTROYED_SUCCESSFULLY = "Destroyed successfully."
